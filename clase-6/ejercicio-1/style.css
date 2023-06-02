@@ -1,0 +1,21 @@
+.padre {
+    display: flex;
+    background-color: lightblue;
+    width: 500px;
+    height: 300px;
+}
+
+.hijo {
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+
+    background-color: salmon;
+}
+
+.nieto {
+    background-color: red;
+    width: 400px;
+    height: 200px;
+}
